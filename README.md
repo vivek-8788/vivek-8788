@@ -8,7 +8,7 @@
 - 📫 How to reach me **vickypratap99@gmail.com**
 
 - ⚡ Fun fact **I enjoy debugging and solving complex problems as much as I love learning about new frameworks and coding practices!**
-<img align="left" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXpiazVidmNmdDR1bXdod3k1d2k4NmZ6amtneHBhcGF6czdmZWJyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" alt="coding" display="flex" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXpiazVidmNmdDR1bXdod3k1d2k4NmZ6amtneHBhcGF6czdmZWJyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/vivek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vivek" height="30" width="40" /></a>
